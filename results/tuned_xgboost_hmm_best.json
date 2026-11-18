@@ -1,0 +1,9 @@
+{
+  "model": "xgboost_tuned.joblib",
+  "best_beta": 10.0,
+  "best_transition_weight": 0.75,
+  "best_validation_accuracy": 0.9072202985752398,
+  "baseline_validation_accuracy": 0.905460634614293,
+  "improvement_percentage_points": 0.17596639609467335,
+  "evaluated_gps_observations": 35234
+}

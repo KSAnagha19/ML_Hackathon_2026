@@ -1,0 +1,30 @@
+{
+  "model": "XGBoost_Optuna_Tuned",
+  "features": [
+    "candidate_rank",
+    "distance_m",
+    "road_length_m",
+    "heading_difference",
+    "heading_valid",
+    "projection_fraction",
+    "gps_step_distance_m"
+  ],
+  "n_trials": 20,
+  "cv_folds": 3,
+  "best_cv_top1_accuracy": 0.7903653121868821,
+  "validation_top1_accuracy": 0.8737299199636714,
+  "validation_macro_f1": 0.9053009117967006,
+  "validation_log_loss": 0.159104981864421,
+  "tuning_time_seconds": 702.4490451812744,
+  "best_params": {
+    "n_estimators": 650,
+    "max_depth": 3,
+    "learning_rate": 0.14317122135718482,
+    "subsample": 0.9143858606147554,
+    "colsample_bytree": 0.773259825232917,
+    "min_child_weight": 3,
+    "gamma": 1.3917808801401832,
+    "reg_alpha": 0.013785687682981822,
+    "reg_lambda": 3.549117544791551
+  }
+}

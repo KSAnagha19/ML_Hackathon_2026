@@ -1,0 +1,14 @@
+
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+optuna
+joblib
+matplotlib
+fastapi
+uvicorn
+pydantic
+streamlit
+pydeck

@@ -1,0 +1,37 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw datasets - do not publish without permission
+student_test/
+training/
+data/
+datasets/
+evaluator_test/
+
+# Temporary files
+*.log
+*.tmp
+
+# Local outputs
+.pytest_cache/
+train/

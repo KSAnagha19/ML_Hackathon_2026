@@ -1,0 +1,19 @@
+{
+  "beta": 20.0,
+  "transition_weight": 1.0,
+  "original": {
+    "xgboost_top1": 0.8723959811545666,
+    "hmm_top1": 0.9026792302889255,
+    "correct_hmm": 31805,
+    "gps_observations": 35234,
+    "hmm_runtime_seconds": 66.75855100003537
+  },
+  "tuned": {
+    "xgboost_top1": 0.8737299199636714,
+    "hmm_top1": 0.905460634614293,
+    "correct_hmm": 31903,
+    "gps_observations": 35234,
+    "hmm_runtime_seconds": 142.2738296999596
+  },
+  "improvement_percentage_points": 0.27814043253675536
+}

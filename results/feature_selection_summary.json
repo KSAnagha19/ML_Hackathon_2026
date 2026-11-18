@@ -1,0 +1,14 @@
+{
+  "selection_method": "5-fold GroupKFold on training trips",
+  "metric": "macro_f1",
+  "tolerance": 0.001,
+  "selected_subset": "top_5",
+  "selected_features": [
+    "candidate_rank",
+    "distance_m",
+    "heading_difference",
+    "projection_fraction",
+    "gps_step_distance_m"
+  ],
+  "selected_cv_macro_f1": 0.8545204268149345
+}
