@@ -379,4 +379,31 @@ The application requires the appropriate dataset files for trip-level prediction
 PathSnap demonstrates how machine learning and road-network-aware sequence decoding can improve the consistency of GPS map matching and provide interpretable visualizations of predicted road routes.
 
 
+## Application Screenshots
+
+
+
+The following screenshots demonstrate the PathSnap application and its GPS map-matching workflow.
+
+
+
+!\[PathSnap Screenshot 1](Screenshots/ml\_1.png)
+
+
+
+!\[PathSnap Screenshot 2](Screenshots/ml\_2.png)
+
+
+
+!\[PathSnap Screenshot 3](Screenshots/ml\_3.png)
+
+
+
+!\[PathSnap Screenshot 4](Screenshots/ml\_4.png)
+
+
+
+!\[PathSnap Screenshot 5](Screenshots/ml\_5.png)
+
+
 
